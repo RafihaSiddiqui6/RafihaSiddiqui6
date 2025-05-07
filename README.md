@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rafiha
 
-![My Banner](./banner.png)
+![My Banner](./Banner.png)
 
 💻 Full Stack Developer | 🎓 Student | 👨‍🏫 Educator  
 Skilled in **Next.js**, **TypeScript**, **Tailwind CSS**, **Python**, **HTML**, **CSS**, **JavaScript**  
